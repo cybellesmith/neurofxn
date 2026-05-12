@@ -2,6 +2,9 @@
 
 Use-case specific python-based calcium imaging preprocessing and event detection pipeline for neurons aggregated into spheroids and placed in a hydrogel microcolumn.
 
+Step 1: Preprocessing.
+Step 2: Calcium event extraction (CaImAn-based)
+
 Adapted corresponding methods section from forthcoming paper:
 
 Developed in python 3.10.9.
